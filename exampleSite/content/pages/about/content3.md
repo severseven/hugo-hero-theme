@@ -1,11 +1,60 @@
 ---
-title: 'Giving Back'
+title: 'Clienti'
 weight: 3
 date: 2018-12-06T09:29:16+10:00
-background: ''
+background: "/images/patrimonio2.jpg"
 align: right
-button: 'Contact Us'
+button: 'Contattaci'
 buttonLink: 'contact'
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+#### In un mondo complesso in continua evoluzionea la nostra missione rimane sempre l’**innovazione digitale**. Sviluppiamo i nostri prodotti ed eroghiamo i nostri servizi sotto le specifiche del **cliente**, includendo le capacità e la freschezza del nostro team.
+
+---
+
+Alcuni dei nostri clienti nell'ambito degli enti culturali:
+
+-
+
+![image alt text](/images/biblioteca-nazionale-centrale-di-roma.png)
+
+[Biblioteca Nazionale Centrale di Roma](http://www.bncrm.beniculturali.it/)
+
+
+---
+
+![image alt text](/images/giunta-centrale-per-gli-studi-storici.png)
+
+[Giunta Centrale per gli Studi Storici](https://www.gcss.it/)
+
+
+---
+
+![image alt text](/images/cepell.png)
+
+[Centro per il Libro e la Lettura](https://cepell.it/)
+
+---
+
+![image alt text](/images/gallerie-nazionali-barberini-corsini.png)
+
+[Gallerie Nazionali Barberini Corsini](https://www.barberinicorsini.org/)
+
+---
+
+![image alt text](/images/icpal.png)
+
+[ICPAL - Istituto Centrale per la Patologia degli Archivi e del Libro](http://www.icpal.beniculturali.it/)
+
+---
+
+![image alt text](/images/museo-nazionale-romano.png)
+
+[Museo Nazionale Romano](https://www.museonazionaleromano.beniculturali.it/)
+
+---
+
+![image alt text](/images/vallicelliana.png)
+
+[Biblioteca Vallicelliana](http://www.vallicelliana.it/)
+
