@@ -1,10 +1,10 @@
 ---
-title: 'About'
+title: 'Chi siamo'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
-heroHeading: 'About Us'
-heroSubHeading: "Established in 1985, we're a team of advisors that puts your business first."
-heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+heroHeading: 'Chi siamo'
+heroSubHeading: "Una società cooperativa operante nel campo della tutela, della conservazione e della valorizzazione del patrimonio culturale"
+heroBackground: "/images/aboutus.jpg"
 ---
 
 <div>
