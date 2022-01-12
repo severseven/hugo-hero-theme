@@ -1,57 +1,22 @@
 ---
-title: 'Accounting'
-date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-1.png'
-draft: false
+title: 'Comunicazione multimediale'
+date: 2018-11-28T15:15:26+10:00
+icon: 'services/spunta.png'
 featured: true
-weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
-heroBackground: 'services/service1.jpg'
+draft: false
+heroHeading: 'Comunicazione multimediale'
+heroSubHeading: 'Strategia, integrazione, interattività'
+heroBackground: 'services/serv-comunicazione.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Le odernie tecnologie dell’informazione e della comunicazione consentono una interazione sempre maggiore tra linguaggi differenti. Sempre più forte è quindi l'esigenza di offrire all’utente percorsi personalizzati di fruizione dei sistemi documentali.
 
-## Ne verba patulosque numen vix libet
+Grazie all'esperienza acquisita nell'erogazione di servizi ICT nel campo dei beni culturali e della ricerca scientifica, [CoperArte](#https://) mette a disposizione del cliente tecniche di comunicazione multimediale innovative, basate sull'utilizzo di ambienti software mirati all'integrazione di media eterogenei e all'arricchimento della realtà documentale esperita dal fruitore.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+[FORMAZIONE E AGGIORNAMENTO](#'services/formazione.md') 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+1. ◉ _Augmented Mapping_
+2. ◉ _E-Scenography_
+3. ◉ _Installazioni interattive_
+4. ◉ _Exhibit design_
