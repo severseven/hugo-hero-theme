@@ -1,9 +1,9 @@
 ---
-title: 'Integrity & Performance'
+title: 'Applicazioni'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
-background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
-align: left
+background: "/images/mission.jpg"
+align: right
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+### Nel tempo abbiamo ampliato il nostro business specializzandoci nello sviluppo di siti web e piattaforme applicative per enti pubblici e privati. Continuiamo a offrire supporto e componentistica ICT a numerosi laboratori specialistici, biblioteche, università, istituti culturali e di ricerca.
