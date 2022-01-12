@@ -1,12 +1,9 @@
-title: 'Patrimonio'
+---
+title: 'Information Technology'
+weight: 2
 date: 2018-12-06T09:29:16+10:00
-weight: 1
-background: "/images/patrimonio.jpg"
-align: right
+background: "/images/informazione.jpg"
+align: left
 ---
 
-##### La società è specializzata nel trattamento e condizionamento di beni documentali di vario genere:
-
-##### materiale cartaceo anche di pregio, libri antichi e moderni, mappe, carte geografiche, pergamene, archivi, materiale fotografico, microfilm.
-
-##### La metodologia di lavoro utilizzata, specifica per ogni tipo di materiale, prevede l’attuazione puntuale di ogni fase di sviluppo, a seconda delle esigenze espresse.
+#### [CoperArte](#https://) progetta e sviluppa strumenti informatici innovativi ad alto contenuto tecnologico avvalendosi di professionisti altamente qualificati, specializzati nella costruzione di infrastrutture sistemistiche e nella elaborazione di architetture informatiche sulla base di specifiche esigenze.
