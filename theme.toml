@@ -1,7 +1,7 @@
-name = "Hero"
+name = "CoperArte"
 license = "MIT"
 licenselink = "https://github.com/zerostaticthemes/hugo-hero-theme/blob/master/LICENSE"
-description = "Hero is a multipurpose theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site."
+description = "Coperarte è una azienda leader nel settore dei servizi ICT"
 
 homepage = "https://github.com/severseven/hugo-hero-theme"
 demosite = "https://dazzling-hawking-2420f0.netlify.app/"
