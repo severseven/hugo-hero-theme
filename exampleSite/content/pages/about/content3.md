@@ -72,12 +72,6 @@ Alcuni dei nostri clienti nell'ambito degli enti culturali:
 
 ---
 
-![image alt text](/images/vallicelliana.png)
-
-[Biblioteca Vallicelliana](http://www.vallicelliana.it/)
-
----
-
 ![image alt text](/images/ministero-italiano-turismo.png)
 
 [Ministero del Turismo](https://www.ministeroturismo.gov.it/)
