@@ -58,3 +58,33 @@ Alcuni dei nostri clienti nell'ambito degli enti culturali:
 
 [Biblioteca Vallicelliana](http://www.vallicelliana.it/)
 
+---
+
+![image alt text](/images/alessandrina.png)
+
+[Biblioteca Alessandrina](https://alessandrina.librari.beniculturali.it/)
+
+---
+
+![image alt text](/images/archivio-centrale-stato.png)
+
+[Archivio Centrale dello Stato](https://www.acs.beniculturali.it/)
+
+---
+
+![image alt text](/images/vallicelliana.png)
+
+[Biblioteca Vallicelliana](http://www.vallicelliana.it/)
+
+---
+
+![image alt text](/images/ministero-italiano-turismo.png)
+
+[Ministero del Turismo](https://www.ministeroturismo.gov.it/)
+
+---
+
+![image alt text](/images/logo-repubblica.png)
+
+[Ministero della Giustizia](https://www.giustizia.it/giustizia/)
+
