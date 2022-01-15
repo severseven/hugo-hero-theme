@@ -72,13 +72,13 @@ Alcuni dei nostri clienti nell'ambito degli enti culturali:
 
 ---
 
-![image alt text](/images/ministero-italiano-turismo.png)
+![image alt text](/images/ministero-turismo.png)
 
 [Ministero del Turismo](https://www.ministeroturismo.gov.it/)
 
 ---
 
-![image alt text](/images/logo-repubblica.png)
+![image alt text](/images/ministero-giustizia.png)
 
 [Ministero della Giustizia](https://www.giustizia.it/giustizia/)
 
