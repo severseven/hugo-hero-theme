@@ -6,7 +6,7 @@ background: "/images/patrimonio.jpg"
 align: right
 ---
 
-##### La società è specializzata nel trattamento e condizionamento di beni documentali:
+##### La società è specializzata nel trattamento e condizionamento di beni documentali di vario genere:
 
 ##### materiale cartaceo anche di pregio, libri antichi e moderni, mappe, carte geografiche, pergamene, archivi, materiale fotografico, microfilm.
 
