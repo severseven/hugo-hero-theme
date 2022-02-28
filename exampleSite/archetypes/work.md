@@ -3,8 +3,8 @@ title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: false
 weight: 100
-heroHeading: 'Chi siamo'
-heroSubHeading: 'Our portfolio and previous projects'
+heroHeading: 'Clienti'
+heroSubHeading: 'Enti Pubblici e Amministrazioni Centrali'
 heroBackground: 'https://source.unsplash.com/1600x900/?architecture'
 image: 'work/work1.jpg'
 ---
