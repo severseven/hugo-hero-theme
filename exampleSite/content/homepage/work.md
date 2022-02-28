@@ -6,4 +6,4 @@ button: 'Scopri chi siamo'
 buttonLink: 'work'
 ---
 
-### Servizi, progettazione, sviluppo, sicurezza, assistenza on-site, e molto altro.
+### Servizi, progettazione, sviluppo, sicurezza, assistenza on-site.
