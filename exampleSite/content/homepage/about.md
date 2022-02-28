@@ -5,4 +5,4 @@ background: "images/home_about.jpg"
 button: 'contattaci'
 buttonLink: 'about'
 ---
-##### Competenze informatiche al servizio dell'Arte e della Cultura
+##### Competenze informatiche al servizio dell'arte e della cultura
