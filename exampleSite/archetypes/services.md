@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 100
 heroHeading: 'Servizi'
-heroSubHeading: 'Information Technology e gestioni di eventi culturali'
+heroSubHeading: 'che crescono con la tua attività'
 heroBackground: 'services/service1.jpg'
 ---
 
