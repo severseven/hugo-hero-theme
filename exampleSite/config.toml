@@ -48,7 +48,7 @@ theme = "hugo-hero-theme"
     weight = 3
 
 [[menu.main]]
-    name = "Storia"
+    name = "Clienti"
     url = "/history/"
     weight = 3
 
