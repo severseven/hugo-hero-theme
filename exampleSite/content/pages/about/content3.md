@@ -8,7 +8,7 @@ button: 'Contattaci'
 buttonLink: 'contact'
 ---
 
-#### In un mondo complesso in continua evoluzionea la nostra missione rimane sempre l’**innovazione digitale**. Sviluppiamo i nostri prodotti ed eroghiamo i nostri servizi sotto le specifiche del **cliente**, includendo le capacità e la freschezza del nostro team.
+#### In un mondo complesso e in continua evoluzione la nostra missione rimane sempre l’**innovazione digitale**. Sviluppiamo i nostri prodotti ed eroghiamo i nostri servizi sotto le specifiche del **cliente**, includendo le capacità e la freschezza del nostro team.
 
 ---
 
