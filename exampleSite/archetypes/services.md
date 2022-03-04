@@ -6,7 +6,7 @@ featured: true
 draft: false
 weight: 100
 heroHeading: 'Servizi'
-heroSubHeading: 'Supporto tecnico informatico software, hardware, network.'
+heroSubHeading: 'Supporto tecnico e informatico: software, hardware, network.'
 heroBackground: 'services/service1.jpg'
 ---
 
