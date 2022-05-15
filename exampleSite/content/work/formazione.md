@@ -11,4 +11,4 @@ images: ['work/formazione1.jpg',
 'work/formazione2.jpg','work/formazione3.jpg','work/formazione4.jpg','work/formazione5.jpg','work/formazione6.jpg']
 ---
 
-#### Organizziamo laboratori didattici, teorico-pratici, di vario livello ed approfondimento, dedicati alla storia del libro, ai materiali e alle tecniche di realizzazione.
+#### Organizziamo laboratori didattici, teorico-pratici, di vario livello e approfondimento, dedicati alla storia del libro, ai materiali e alle tecniche di realizzazione.
