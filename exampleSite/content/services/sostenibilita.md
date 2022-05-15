@@ -16,7 +16,7 @@ nell'ambito sociale e lavorativo. Si tratta di una
 sfida culturale che ogni azienda deve essere preparata ad
 affrontare con gli strumenti più idonei.
 
- [CoperArte](#https://) sviluppa misure atte a ridurre
+**CoperArte** sviluppa misure atte a ridurre
  l'impatto ambientale attraverso la programmazione di
  ecosistemi digitali per la diffusione dello **smart
  working**, della **Internet of Things**, della
