@@ -8,6 +8,6 @@ align: right
 
 ##### La società è specializzata nel trattamento e condizionamento di beni documentali di vario genere:
 
-##### materiale cartaceo anche di pregio, libri antichi e moderni, mappe, carte geografiche, pergamene, archivi, materiale fotografico, microfilm.
+##### materiale cartaceo anche di pregio, libri antichi e moderni, mappe, carte geografiche, pergamene, carte d'archivio, carta e materiale fotografico, microfilm.
 
 ##### La metodologia di lavoro utilizzata, specifica per ogni tipo di materiale, prevede l’attuazione puntuale di ogni fase di sviluppo, a seconda delle esigenze espresse.
