@@ -17,13 +17,3 @@ Organizziamo **mostre**, **eventi**, **attività espositive**, **convegni**.
 Pianifichiamo le varie fasi organizzative. Predisponiamo e allestiamo gli ambienti secondo le esigenze del committente.
 
 Effettuiamo **videoregistrazioni** ad alta risoluzione e trasmissioni in **live streaming**
-
-[COMUNICAZIONE MULTIMEDIALE](#http://localhost/services/comunicazione/) 
-
-1. Convegni
-2. Conferenze
-3. Meeting
-4. Eventi
-5. Marketing
-6. Filmati e video clip
-7. Broadcasting
