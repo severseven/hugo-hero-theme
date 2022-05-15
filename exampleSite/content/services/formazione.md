@@ -1,20 +1,14 @@
 ---
-title: 'Formazione e aggiornamento'
+title: 'Supporto IT'
 date: 2018-11-28T15:14:54+10:00
 icon: 'services/spunta.png'
 featured: true
 draft: false
-heroHeading: 'Formazione e aggiornamento'
-heroSubHeading: 'Laboratori e seminari didattici'
+heroHeading: 'Supporto IT'
+heroSubHeading: 'Help Desk e Trouble Ticketing'
 heroBackground: 'services/serv-formazione.jpg'
 ---
 
-Organizziamo **laboratori didattici** nel campo dell’[Information Technology](#services/information-tecnology/) di vario livello e grado, dedicati a materiali, tecniche di sviluppo e realizzazione di processi.
+Offriamo assistenza e consulenza in-house e out-house per la risoluzione efficace e immediata dei problemi informatici su postazioni di lavoro, con diversi gradi di escalation.
 
-#### CORSI DI FORMAZIONE ED AGGIORNAMENTO
-
-Istituiamo e sviluppiamo **corsi di aggiornamento**, anche con percorsi formativi personalizzati, per enti pubblici o ditte private nel settore degli archivi e delle biblioteche.
-
-#### PROGETTI EUROPEI
-
- Coordiniamo la pianificazione di progetti europei e la gestione dei rapporti con la **Commissione Europea** e con i **Paesi Partner**.
+L'obiettivo è quello di istruire l'utente all'uso sicuro di strumenti tecnici intuitivi e affidabili, in modo da massimizzare il livello di automatizzazione e rendere il flusso di lavoro maggiormente autonomo e continuativo. I servizi di assistenza sono talvolta strutturati in team e differenziati in base alla complessità del problema e alla tempistica di risoluzione prevista.
