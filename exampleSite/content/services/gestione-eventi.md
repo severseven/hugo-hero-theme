@@ -12,7 +12,7 @@ heroBackground: 'services/serv-eventi.jpg'
 
 Da sempre investiamo notevoli risorse in questo cruciale settore in continua espansione.
 
-Organizziamo **mostre**, **eventi**, **attività espositive**, **convegni**.
+Organizziamo **mostre**, **eventi**, **esposizioni**, **convegni**.
 
 Pianifichiamo le varie fasi organizzative. Predisponiamo e allestiamo gli ambienti secondo le esigenze del committente.
 
