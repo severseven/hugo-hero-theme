@@ -6,4 +6,4 @@ background: "/images/informazione.jpg"
 align: left
 ---
 
-#### [CoperArte](#https://) progetta e sviluppa strumenti informatici innovativi ad alto contenuto tecnologico avvalendosi di professionisti altamente qualificati, specializzati nella costruzione di infrastrutture sistemistiche e nella elaborazione di architetture informatiche sulla base di specifiche esigenze.
+#### **CoperArte** progetta e sviluppa strumenti informatici innovativi ad alto contenuto tecnologico avvalendosi di professionisti altamente qualificati, specializzati nella costruzione di infrastrutture sistemistiche e nella elaborazione di architetture informatiche sulla base di specifiche esigenze.
