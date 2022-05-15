@@ -9,9 +9,7 @@ heroSubHeading: 'Trattamento di beni documentali'
 heroBackground: 'services/serv-patrimonio.jpg'
 ---
 
-La metodologia di lavoro utilizzata, specifica per ogni tipo di materiale, prevede l’attuazione puntuale ed efficace di tutte o alcune delle seguenti fasi a seconda delle esigenze espresse.
-
-**CoperArte** progetta e mantiene soluzioni tecnologiche al servizio della cultura. I beni documentali oggetto delle nostre cure comprendono materiale cartaceo anche di pregio, libri antichi e moderni, mappe, carte geografiche, pergamene, carte d'archivio, carta e materiale fotografico, microfilm.
+La metodologia di lavoro utilizzata, specifica per ogni tipo di materiale, prevede l’attuazione puntuale ed efficace di tutte o alcune delle seguenti fasi a seconda delle esigenze espresse. **CoperArte** progetta e mantiene soluzioni tecnologiche al servizio della cultura. I beni documentali oggetto delle nostre cure comprendono materiale cartaceo anche di pregio, libri antichi e moderni, mappe, carte geografiche, pergamene, carte d'archivio, carta e materiale fotografico, microfilm.
 
 #### Progettazione
 
