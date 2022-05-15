@@ -16,4 +16,4 @@ Organizziamo **mostre**, **eventi**, **attività espositive**, **convegni**.
 
 Pianifichiamo le varie fasi organizzative. Predisponiamo e allestiamo gli ambienti secondo le esigenze del committente.
 
-Effettuiamo **videoregistrazioni** ad alta risoluzione e trasmissioni in **live streaming**
+Effettuiamo **videoregistrazioni** ad alta risoluzione e trasmissioni in **live streaming**.
