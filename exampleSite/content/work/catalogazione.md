@@ -10,4 +10,4 @@ thumbnail: 'work/work2-thumbnail.jpg'
 images: ['work/catalogo1.jpg', 'work/catalogo2.jpg','work/catalogo3.jpg','work/catalogo4.jpg','work/catalogo5.jpg','work/catalogo6.jpg']
 ---
 
-#### Cataloghiamo e indicizziamo in banche dati informatiche materiale librario, manoscritto e a stampa, antico e moderno, fotografico, archivistico e multimediale, conforme agli standard nazionali e internazionali.
+#### Cataloghiamo, descriviamo e indicizziamo in banche dati informatiche materiale librario, manoscritto e a stampa, antico e moderno, fotografico, archivistico e multimediale, conforme agli standard nazionali e internazionali.
