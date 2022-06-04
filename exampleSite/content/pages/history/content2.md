@@ -10,9 +10,8 @@ align: right
 
 ###  Alcuni dei nostri clienti nell'ambito degli enti culturali:
 
----
 
-![image alt text](/images/bncr.png)
+![image alt text](/images/biblioteca_nazionale_centrale.png)
 
 [Biblioteca Nazionale Centrale di Roma](http://www.bncrm.beniculturali.it/)
 
