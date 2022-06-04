@@ -12,7 +12,7 @@ align: right
 
 ---
 
-![image alt text](/images/biblioteca-nazionale-centrale-di-roma.png)
+![image alt text](/images/biblioteca_nazionale_centrale.png)
 
 [Biblioteca Nazionale Centrale di Roma](http://www.bncrm.beniculturali.it/)
 
@@ -30,6 +30,12 @@ align: right
 
 ---
 
+![image alt text](/images/borghese.png)
+
+[Galleria Borghese](https://galleriaborghese.beniculturali.it/)
+
+---
+
 ![image alt text](/images/ales.png)
 
 [ALES - Arte Lavoro e Servizi](https://www.ales-spa.com/)
@@ -42,9 +48,9 @@ align: right
 
 ---
 
-![image alt text](/images/giunta-centrale-per-gli-studi-storici.png)
+![image alt text](/images/gcss.png)
 
-[Giunta Centrale per gli Studi Storici](https://www.gcss.it/)
+[GCSS - Giunta Centrale per gli Studi Storici](https://www.gcss.it/)
 
 ---
 
@@ -77,7 +83,7 @@ align: right
 
 ---
 
-![image alt text](/images/gallerie-nazionali-barberini-corsini.png)
+![image alt text](/images/barberini_corsini.png)
 
 [Gallerie Nazionali Barberini Corsini](https://www.barberinicorsini.org/)
 
@@ -107,7 +113,7 @@ align: right
 
 ---
 
-![image alt text](/images/museo-nazionale-romano.png)
+![image alt text](/images/museo_nazionale_romano.png)
 
 [Museo Nazionale Romano](https://www.museonazionaleromano.beniculturali.it/)
 
@@ -131,7 +137,7 @@ align: right
 
 ---
 
-![image alt text](/images/direzione-generale-cinema-e-audiovisivo.png)
+![image alt text](/images/direzione_generale_cinema_audiovisivo.png)
 
 [Direzione Generale Cinema e Audiovisivo](https://cinema.cultura.gov.it/)
 
@@ -143,7 +149,7 @@ align: right
 
 ---
 
-![image alt text](/images/alessandrina.png)
+![image alt text](/images/biblioteca_alessandrina.png)
 
 [Biblioteca Alessandrina](https://alessandrina.librari.beniculturali.it/)
 
@@ -155,7 +161,7 @@ align: right
 
 ---
 
-![image alt text](/images/archivio-centrale-stato.png)
+![image alt text](/images/archivio_centrale_stato.png)
 
 [Archivio Centrale dello Stato](https://www.acs.beniculturali.it/)
 
@@ -167,7 +173,7 @@ align: right
 
 ---
 
-![image alt text](/images/ministero-turismo.png)
+![image alt text](/images/ministero_turismo.png)
 
 [Ministero del Turismo](https://www.ministeroturismo.gov.it/)
 
@@ -200,5 +206,11 @@ align: right
 ![image alt text](/images/universita_politecnica_marche.png)
 
 [Università Politecnica delle Marche](https://www.univpm.it/)
+
+---
+
+![image alt text](/images/istituto_centrale_grafica.png)
+
+[Istituto Centrale per la Grafica](https://www.grafica.beniculturali.it/)
 
 ---
