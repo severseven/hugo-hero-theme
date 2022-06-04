@@ -8,7 +8,7 @@ align: right
 
 #### Nel tempo abbiamo ampliato il nostro business specializzandoci nello sviluppo di siti web e piattaforme applicative per enti pubblici e privati. Continuiamo a offrire supporto e componentistica ICT a numerosi laboratori specialistici, biblioteche, università, istituti culturali e di ricerca.
 
-###  Alcuni dei nostri clienti nell'ambito degli enti culturali:
+####  Alcuni dei nostri clienti nell'ambito degli enti culturali:
 
 ---
 
