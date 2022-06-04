@@ -7,3 +7,76 @@ align: right
 ---
 
 ### Nel tempo abbiamo ampliato il nostro business specializzandoci nello sviluppo di siti web e piattaforme applicative per enti pubblici e privati. Continuiamo a offrire supporto e componentistica ICT a numerosi laboratori specialistici, biblioteche, università, istituti culturali e di ricerca.
+
+####  Alcuni dei nostri clienti nell'ambito degli enti culturali:
+
+---
+
+![image alt text](/images/biblioteca-nazionale-centrale-di-roma.png)
+
+[Biblioteca Nazionale Centrale di Roma](http://www.bncrm.beniculturali.it/)
+
+
+---
+
+![image alt text](/images/giunta-centrale-per-gli-studi-storici.png)
+
+[Giunta Centrale per gli Studi Storici](https://www.gcss.it/)
+
+
+---
+
+![image alt text](/images/cepell.png)
+
+[Centro per il Libro e la Lettura](https://cepell.it/)
+
+---
+
+![image alt text](/images/gallerie-nazionali-barberini-corsini.png)
+
+[Gallerie Nazionali Barberini Corsini](https://www.barberinicorsini.org/)
+
+---
+
+![image alt text](/images/icpal.png)
+
+[ICPAL - Istituto Centrale per la Patologia degli Archivi e del Libro](http://www.icpal.beniculturali.it/)
+
+---
+
+![image alt text](/images/museo-nazionale-romano.png)
+
+[Museo Nazionale Romano](https://www.museonazionaleromano.beniculturali.it/)
+
+---
+
+![image alt text](/images/vallicelliana.png)
+
+[Biblioteca Vallicelliana](http://www.vallicelliana.it/)
+
+---
+
+![image alt text](/images/alessandrina.png)
+
+[Biblioteca Alessandrina](https://alessandrina.librari.beniculturali.it/)
+
+---
+
+![image alt text](/images/archivio-centrale-stato.png)
+
+[Archivio Centrale dello Stato](https://www.acs.beniculturali.it/)
+
+---
+
+![image alt text](/images/ministero-turismo.png)
+
+[Ministero del Turismo](https://www.ministeroturismo.gov.it/)
+
+---
+
+![image alt text](/images/ministero-giustizia.png)
+
+[Ministero della Giustizia](https://www.giustizia.it/giustizia/)
+
+---
+
