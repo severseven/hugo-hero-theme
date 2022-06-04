@@ -59,7 +59,7 @@ align: right
 
 ---
 
-![image alt text](/images/parco_archeologico_appia_antica)
+![image alt text](/images/parco_archeologico_appia_antica.png)
 
 [Parco Archeologico Appia Antica](https://www.parcoarcheologicoappiaantica.it/)
 
