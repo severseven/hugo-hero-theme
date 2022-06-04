@@ -12,7 +12,7 @@ align: right
 
 ---
 
-![image alt text](/images/biblioteca_nazionale_centrale.png)
+![image alt text](/images/bncr.png)
 
 [Biblioteca Nazionale Centrale di Roma](http://www.bncrm.beniculturali.it/)
 
