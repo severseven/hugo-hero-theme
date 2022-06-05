@@ -8,5 +8,15 @@
         "name": "Twitter",
         "link": "https://twitter.com/coperarteit",
         "image": "social/twitter.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/coperarteit/",
+        "image": "social/instagram.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://facebook.com/coperarteit",
+        "image": "social/facebook.svg"
     }
 ]
