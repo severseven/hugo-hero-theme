@@ -1,6 +1,6 @@
 [build]
-  publish = "hugo-hero-theme/exampleSite/public"
-  command = "cd hugo-hero-theme/exampleSite && hugo --themesDir ../.."
+  publish = "hugo-hero-theme/tree/master/exampleSite/public"
+  command = "cd hugo-hero-theme/tree/master/exampleSite && hugo --themesDir ../.."
 
 [build.environment]
   HUGO_VERSION = "0.82.0"
