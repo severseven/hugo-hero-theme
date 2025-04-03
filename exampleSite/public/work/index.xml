@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progetti on COPERARTE</title>
+    <link>https://www.example.com/work/</link>
+    <description>Recent content in Progetti on COPERARTE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analisi</title>
+      <link>https://www.example.com/work/analisi/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.example.com/work/analisi/</guid>
+      <description>Analizziamo e valutiamo lo stato di conservazione del patrimonio archivistico e librario per interventi preventivi e di progettazione delle modalità di restauro. </description>
+    </item>
+    
+    <item>
+      <title>Catalogazione</title>
+      <link>https://www.example.com/work/catalogazione/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.example.com/work/catalogazione/</guid>
+      <description>Cataloghiamo, descriviamo e indicizziamo in banche dati informatiche materiale librario, manoscritto e a stampa, antico e moderno, fotografico, archivistico e multimediale, conforme agli standard nazionali e internazionali. </description>
+    </item>
+    
+    <item>
+      <title>Conservazione</title>
+      <link>https://www.example.com/work/conservazione/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.example.com/work/conservazione/</guid>
+      <description>Utilizziamo strumenti all’avanguardia per salvaguardare l’integrità e la qualità dei documenti originali. </description>
+    </item>
+    
+    <item>
+      <title>Eventi</title>
+      <link>https://www.example.com/work/eventi/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.example.com/work/eventi/</guid>
+      <description>Offriamo consulenza tecnica e supporto organizzativo e logistico per la buona riuscita di ogni tipologia di evento culturale o corporate, provvedendo a commisurare alla peculiarità della location l&amp;rsquo;installazione di dispositivi audio-video di registrazione o entertainment. </description>
+    </item>
+    
+    <item>
+      <title>Formazione</title>
+      <link>https://www.example.com/work/formazione/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.example.com/work/formazione/</guid>
+      <description>Organizziamo laboratori didattici, teorico-pratici, di vario livello e approfondimento, dedicati alla storia del libro, ai materiali e alle tecniche di realizzazione. </description>
+    </item>
+    
+    <item>
+      <title>Digitalizzazione</title>
+      <link>https://www.example.com/work/digitalizzazione/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.example.com/work/digitalizzazione/</guid>
+      <description>Digitalizziamo materiale documentale, carte, stampe, libri di qualsiasi formato e dimensione, avvalendoci delle tecniche più avanzate e pertinenti al contesto. </description>
+    </item>
+    
+  </channel>
+</rss>

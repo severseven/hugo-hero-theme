@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servizi on COPERARTE</title>
+    <link>https://www.example.com/services/</link>
+    <description>Recent content in Servizi on COPERARTE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gestione eventi</title>
+      <link>https://www.example.com/services/gestione-eventi/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.example.com/services/gestione-eventi/</guid>
+      <description>Da sempre investiamo notevoli risorse in questo cruciale settore in continua espansione.
+Organizziamo mostre, eventi, esposizioni, convegni.
+Pianifichiamo le varie fasi organizzative. Predisponiamo e allestiamo gli ambienti secondo le esigenze del committente.
+Effettuiamo videoregistrazioni ad alta risoluzione e trasmissioni in live streaming.</description>
+    </item>
+    
+    <item>
+      <title>Information Technology</title>
+      <link>https://www.example.com/services/information-technology/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.example.com/services/information-technology/</guid>
+      <description>Innovare in ambito IT significa innanzitutto gestire il flusso di dati in modo che l&amp;rsquo;automazione dei processi consenta di liberare risorse spendibili nell&amp;rsquo;accrescimento delle competenze organizzative.
+Progettiamo e sviluppiamo strumenti informatici innovativi ad alto contenuto tecnologico. Realizziamo infrastrutture sistemistiche all&amp;rsquo;avanguardia e architetture informatiche sulla base di specifiche esigenze.
+  SOFTWARE DEVELOPMENT   Progettiamo e sviluppiamo software custom lavorando a stretto contatto con il cliente, al fine di soddisfare in maniera diretta e immediata ogni particolare esigenza.</description>
+    </item>
+    
+    <item>
+      <title>Patrimonio Culturale</title>
+      <link>https://www.example.com/services/patrimonio/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://www.example.com/services/patrimonio/</guid>
+      <description>La metodologia di lavoro utilizzata, specifica per ogni tipo di materiale, prevede l’attuazione puntuale ed efficace di tutte o alcune delle seguenti fasi a seconda delle esigenze espresse. CoperArte progetta e mantiene soluzioni tecnologiche al servizio della cultura. I beni documentali oggetto delle nostre cure comprendono materiale cartaceo anche di pregio, libri antichi e moderni, mappe, carte geografiche, pergamene, carte d&amp;rsquo;archivio, carta e materiale fotografico, microfilm.
+Progettazione  Individuazione dei processi per l’organizzazione e il riordino di biblioteche, archivi e centri di documentazione con relativa ottimizzazione dei processi gestionali.</description>
+    </item>
+    
+    <item>
+      <title>Comunicazione multimediale</title>
+      <link>https://www.example.com/services/comunicazione/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://www.example.com/services/comunicazione/</guid>
+      <description>Le odierne tecnologie dell’informazione e della comunicazione consentono una interazione sempre maggiore tra linguaggi differenti. Sempre più forte è quindi l&amp;rsquo;esigenza di offrire all’utente percorsi personalizzati di fruizione dei sistemi documentali.
+Grazie all&amp;rsquo;esperienza acquisita nell&amp;rsquo;erogazione di servizi ICT nel campo dei beni culturali e della ricerca scientifica, CoperArte mette a disposizione del cliente tecniche di comunicazione multimediale innovative, basate sull&amp;rsquo;utilizzo di ambienti software mirati all&amp;rsquo;integrazione di media eterogenei e all&amp;rsquo;arricchimento della realtà documentale esperita dal fruitore.</description>
+    </item>
+    
+    <item>
+      <title>Supporto IT</title>
+      <link>https://www.example.com/services/supporto/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://www.example.com/services/supporto/</guid>
+      <description>Offriamo assistenza e consulenza in-house e out-house per la risoluzione efficace e immediata dei problemi informatici su postazioni di lavoro, con diversi gradi di escalation.
+L&amp;rsquo;obiettivo è quello di istruire l&amp;rsquo;utente all&amp;rsquo;uso sicuro di strumenti tecnici intuitivi e affidabili, in modo da massimizzare il livello di automatizzazione e rendere il flusso di lavoro maggiormente autonomo e continuativo. I servizi di assistenza sono talvolta strutturati in team e differenziati in base alla complessità del problema e alla tempistica di risoluzione prevista.</description>
+    </item>
+    
+    <item>
+      <title>Supporto INIT</title>
+      <link>https://www.example.com/services/sostenibilita/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://www.example.com/services/sostenibilita/</guid>
+      <description>Supportiamo nella creazione e riuscita delle lavorazioni previste dal flusso integrato dell&amp;rsquo;applicativo INIT con un gruppo di professionisti altamente formati alle novità riguardanti le funzioni previste dall&amp;rsquo;ufficio del consegnatario, dall&amp;rsquo;ufficio acquisti, dall&amp;rsquo;ufficio gare e dalla contabilità.
+CoperArte è specializzata nel funzionamento e coordinamento del flusso contabile, previsto per gli uffici a contabilità ordinaria. Supportiamo la creazione dell&amp;rsquo;ODA su Init, mediante le funzioni previste dal sistema.</description>
+    </item>
+    
+  </channel>
+</rss>
